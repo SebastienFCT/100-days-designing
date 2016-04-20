@@ -4,7 +4,7 @@
 
 100 days designing is the place where I will share all my designed icons. I'm a programmer, not a designer. But I use icons in most of my projects and while it's easy to find beautiful icons on the web, I feel like it's a part of my daily job I should fulfill.
 
-My work is totally free to use/reuse/modify/etc... See the ![License section](#license) for further detail.
+My work is totally free to use/reuse/modify/etc... See the [License section](#license) for further detail.
 
 <p align="center">
     <a href="#features">Features</a> • <a href="#contribution">Contribution</a> • <a href="#license">License</a>

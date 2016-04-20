@@ -6,10 +6,6 @@
 
 My work is totally free to use/reuse/modify/etc... See the [License section](#license) for further detail.
 
-<p align="center">
-    <a href="#features">Features</a> • <a href="#contribution">Contribution</a> • <a href="#license">License</a>
-</p>
-
 ## Upcoming
 
 - [ ] Creating as many icons as I could

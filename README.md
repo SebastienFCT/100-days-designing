@@ -6,11 +6,13 @@
 
 My work is totally free to use/reuse/modify/etc... See the [License section](#license) for further detail.
 
-## Upcoming
+## List
 
-- [ ] Creating as many icons as I could
-- [ ] Creating a framework to implement all these icons on iOS
-- [ ] Any idea?
+- Mixed icons:
+
+<p align="center">
+  <img src="Mixed/Sources/All@1x.png">
+</p>
 
 ## Contribution
 

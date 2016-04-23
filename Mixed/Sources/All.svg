@@ -654,6 +654,14 @@
                 <ellipse id="Oval-155-Copy-2" fill="#5E5D5A" cx="51.5" cy="15.45" rx="51.5" ry="15.45"></ellipse>
                 <ellipse id="Oval-155-Copy" fill="#494846" cx="51.5" cy="15" rx="33.5" ry="10"></ellipse>
             </g>
+            <g id="icon-background" transform="translate(410.000000, 1236.000000)" fill="#D0E4FA">
+                <circle id="Oval-1-Copy-2" cx="75" cy="75" r="75"></circle>
+            </g>
+            <g id="Group" transform="translate(447.000000, 1264.000000)">
+                <path d="M38.3386444,20.0708365 C40.7395902,20.0708365 33.2084434,6.02987717 39.7289508,0" id="Path-39" stroke="#FBCB7C" stroke-width="3"></path>
+                <circle id="Oval-158" fill="#494846" cx="38.5" cy="55.5" r="38.5"></circle>
+                <rect id="Rectangle-223" fill="#494846" x="29" y="13" width="18" height="9" rx="2"></rect>
+            </g>
         </g>
     </g>
 </svg>

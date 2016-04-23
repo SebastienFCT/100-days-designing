@@ -662,6 +662,46 @@
                 <circle id="Oval-158" fill="#494846" cx="38.5" cy="55.5" r="38.5"></circle>
                 <rect id="Rectangle-223" fill="#494846" x="29" y="13" width="18" height="9" rx="2"></rect>
             </g>
+            <g id="icon-background" transform="translate(615.000000, 1236.000000)" fill="#D0E4FA">
+                <circle id="Oval-1-Copy-2" cx="75" cy="75" r="75"></circle>
+            </g>
+            <g id="Group-4" transform="translate(640.000000, 1269.000000)">
+                <g id="Group" transform="translate(5.000000, 51.000000)"></g>
+                <g id="Group-3">
+                    <g id="candle" transform="translate(33.000000, 18.000000)" fill="#A7A5A5">
+                        <rect id="Rectangle-227" x="15" y="0" width="5" height="22"></rect>
+                        <rect id="Rectangle-227-Copy" x="30" y="0" width="5" height="22"></rect>
+                        <rect id="Rectangle-227-Copy-2" x="0" y="0" width="5" height="22"></rect>
+                    </g>
+                    <rect id="bottom" fill="#F6F6F6" x="0" y="80" width="100" height="5" rx="4"></rect>
+                    <rect id="Rectangle-225-Copy" fill="#EAC890" x="20" y="27" width="60" height="29"></rect>
+                    <rect id="Rectangle-231" fill="#FFFFFF" x="20" y="34" width="60" height="6"></rect>
+                    <g id="bot-layer" transform="translate(5.000000, 48.000000)">
+                        <circle id="Oval-159" fill="#D44A4A" cx="45.5" cy="3.5" r="3.5"></circle>
+                        <circle id="Oval-159-Copy-4" fill="#D44A4A" cx="33.5" cy="3.5" r="3.5"></circle>
+                        <circle id="Oval-159-Copy-5" fill="#D44A4A" cx="21.5" cy="3.5" r="3.5"></circle>
+                        <circle id="Oval-159-Copy-6" fill="#D44A4A" cx="9.5" cy="3.5" r="3.5"></circle>
+                        <circle id="Oval-159-Copy" fill="#D44A4A" cx="57.5" cy="3.5" r="3.5"></circle>
+                        <circle id="Oval-159-Copy-2" fill="#D44A4A" cx="69.5" cy="3.5" r="3.5"></circle>
+                        <circle id="Oval-159-Copy-3" fill="#D44A4A" cx="81.5" cy="3.5" r="3.5"></circle>
+                        <rect id="Rectangle-225" fill="#EBC991" x="0" y="3" width="90" height="29"></rect>
+                    </g>
+                    <rect id="Rectangle-231-Copy" fill="#FFFFFF" x="5" y="64" width="90" height="6"></rect>
+                    <path d="M18,51 C18,53.7614237 14.418278,56 10,56 C8.10864929,56 6.37059537,55.5897865 5.00117873,54.9039473 C5.05334568,52.7390179 6.83037272,51 8.99793926,51 L18,51 C18,53.7614237 21.581722,56 26,56 C30.418278,56 34,53.7614237 34,51 L18,51 Z M50,51 C50,53.7614237 46.418278,56 42,56 C37.581722,56 34,53.7614237 34,51 L50,51 Z M66,51 C66,53.7614237 62.418278,56 58,56 C53.581722,56 50,53.7614237 50,51 L66,51 Z M82,51 C82,53.7614237 78.418278,56 74,56 C69.581722,56 66,53.7614237 66,51 L82,51 Z M94.9988258,54.903945 C93.6294085,55.5897856 91.8913528,56 90,56 C85.581722,56 82,53.7614237 82,51 L91.0020607,51 C93.1773489,51 94.9468705,52.7394835 94.9988258,54.903945 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <g id="Group-2" transform="translate(32.500000, 0.000000)">
+                        <path d="M3,19 C4.65685425,19 6,16.3137085 6,13 C6,9.6862915 3,0 3,0 C3,0 0,9.6862915 0,13 C0,16.3137085 1.34314575,19 3,19 Z" id="Oval-172" fill="#FF4848"></path>
+                        <path d="M3,19 C4.1045695,19 5,17.1620111 5,14.8947368 C5,12.6274626 3,6 3,6 C3,6 1,12.6274626 1,14.8947368 C1,17.1620111 1.8954305,19 3,19 Z" id="Oval-172-Copy" fill="#F6ED7D"></path>
+                    </g>
+                    <g id="Group-2-Copy" transform="translate(47.500000, 0.000000)">
+                        <path d="M3,19 C4.65685425,19 6,16.3137085 6,13 C6,9.6862915 3,0 3,0 C3,0 0,9.6862915 0,13 C0,16.3137085 1.34314575,19 3,19 Z" id="Oval-172" fill="#FF4848"></path>
+                        <path d="M3,19 C4.1045695,19 5,17.1620111 5,14.8947368 C5,12.6274626 3,6 3,6 C3,6 1,12.6274626 1,14.8947368 C1,17.1620111 1.8954305,19 3,19 Z" id="Oval-172-Copy" fill="#F6ED7D"></path>
+                    </g>
+                    <g id="Group-2-Copy-2" transform="translate(62.500000, 0.000000)">
+                        <path d="M3,19 C4.65685425,19 6,16.3137085 6,13 C6,9.6862915 3,0 3,0 C3,0 0,9.6862915 0,13 C0,16.3137085 1.34314575,19 3,19 Z" id="Oval-172" fill="#FF4848"></path>
+                        <path d="M3,19 C4.1045695,19 5,17.1620111 5,14.8947368 C5,12.6274626 3,6 3,6 C3,6 1,12.6274626 1,14.8947368 C1,17.1620111 1.8954305,19 3,19 Z" id="Oval-172-Copy" fill="#F6ED7D"></path>
+                    </g>
+                </g>
+            </g>
         </g>
     </g>
 </svg>

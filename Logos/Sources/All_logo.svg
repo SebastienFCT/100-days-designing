@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1100px" height="114px" viewBox="0 0 1100 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>All_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="227.264143%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#BAB6B6" offset="0%"></stop>
+            <stop stop-color="#362C2C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="134.573726%" y1="50%" x2="-9.5499325%" y2="19.2804471%" id="linearGradient-2">
+            <stop stop-color="#CAC8C8" offset="0%"></stop>
+            <stop stop-color="#5A4F4F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="110.992279%" y1="58.427064%" x2="-17.3922002%" y2="30.1195428%" id="linearGradient-3">
+            <stop stop-color="#E9E9E9" offset="0%"></stop>
+            <stop stop-color="#705454" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-14.8115652%" y2="76.8961193%" id="linearGradient-4">
+            <stop stop-color="#D4CECE" offset="0%"></stop>
+            <stop stop-color="#554343" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="214.155893%" y1="94.5523617%" x2="0%" y2="7.9213757%" id="linearGradient-5">
+            <stop stop-color="#CAC8C8" offset="0%"></stop>
+            <stop stop-color="#473D3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="191.650773%" y1="25.0145623%" x2="-45.5462153%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#E9E9E9" offset="0%"></stop>
+            <stop stop-color="#393232" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="130.64247%" y1="116.54931%" x2="-19.0663171%" y2="20.9934203%" id="linearGradient-7">
+            <stop stop-color="#D4CECE" offset="0%"></stop>
+            <stop stop-color="#625353" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#D5D4D4" offset="0%"></stop>
+            <stop stop-color="#2C2727" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#D5D4D4" offset="0%"></stop>
+            <stop stop-color="#1C1616" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#DBD8D8" offset="0%"></stop>
+            <stop stop-color="#4D3F3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="67.8892507%" x2="0%" y2="-28.6467392%" id="linearGradient-11">
+            <stop stop-color="#DAD9D9" offset="0%"></stop>
+            <stop stop-color="#514949" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="66.320808%" x2="0%" y2="-27.6641596%" id="linearGradient-12">
+            <stop stop-color="#E0DFDF" offset="0%"></stop>
+            <stop stop-color="#4C4141" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="67.5428914%" x2="0%" y2="-27.436938%" id="linearGradient-13">
+            <stop stop-color="#E9E9E9" offset="0%"></stop>
+            <stop stop-color="#4C4545" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="26.9007389%" y2="74.1864956%" id="linearGradient-14">
+            <stop stop-color="#7A6969" offset="0%"></stop>
+            <stop stop-color="#DCC9C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.1461041%" y1="63.5322977%" x2="100%" y2="0%" id="linearGradient-15">
+            <stop stop-color="#CAC6C6" offset="0%"></stop>
+            <stop stop-color="#655B5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All_logo">
+            <g id="logo">
+                <g id="layer-1">
+                    <polygon id="Rectangle-1" fill="#E7BC6F" points="40 19 86 19 103 50 23 50"></polygon>
+                    <polygon id="Rectangle-2" fill="#EABB67" points="18 10 40 19 23 50 0 30"></polygon>
+                    <polygon id="Rectangle-2-Copy" fill="#EABB67" transform="translate(106.000000, 30.000000) scale(-1, 1) translate(-106.000000, -30.000000) " points="104 10 126 19 109 50 86 30"></polygon>
+                    <polygon id="Polygon-1" fill="#F5E3A1" points="86 0 108 10 86 19 40 19 18 10 40 0"></polygon>
+                    <polygon id="Polygon-2" fill="#D5804E" points="0 30.1590296 23 50.0000006 63 114.000003"></polygon>
+                    <polygon id="Polygon-2-Copy" fill="#D5804E" transform="translate(94.500000, 72.079516) scale(-1, 1) translate(-94.500000, -72.079516) " points="63 30.1590296 86 50.0000006 126 114.000003"></polygon>
+                    <polygon id="Polygon-2-Copy-2" fill="#DE9958" transform="translate(63.006001, 82.000002) scale(-1, 1) translate(-63.006001, -82.000002) " points="23.012001 50.0000006 103 50.0000006 63.012001 114.000003"></polygon>
+                </g>
+                <g id="layer-2" style="mix-blend-mode: overlay;">
+                    <g id="A" transform="translate(23.000000, 19.000000)">
+                        <polygon id="Polygon-5" fill="#ABA8A8" points="16.9999996 0 40 13.2697258 0 31"></polygon>
+                        <polygon id="Polygon-5-Copy" fill="#ABA8A8" transform="translate(60.000000, 15.500000) scale(-1, 1) translate(-60.000000, -15.500000) " points="56.9999996 0 80 13.2697258 40 31"></polygon>
+                        <polygon id="Polygon-5-Copy-2" fill="#E2E2E2" transform="translate(40.000000, 6.634863) scale(-1, 1) translate(-40.000000, -6.634863) " points="63 0 40 13.2697258 17 0"></polygon>
+                        <polygon id="Polygon-5-Copy-3" fill="url(#linearGradient-1)" transform="translate(40.000000, 22.134863) scale(-1, 1) translate(-40.000000, -22.134863) " points="80 31 40 13.2697258 0 31"></polygon>
+                    </g>
+                    <g id="B" transform="translate(0.000000, 10.000000)">
+                        <polygon id="Polygon-5-Copy-4" fill="url(#linearGradient-2)" transform="translate(30.500000, 24.500000) scale(-1, 1) translate(-30.500000, -24.500000) " points="38 40 21 9 40 15"></polygon>
+                        <polygon id="Polygon-5-Copy-5" fill="url(#linearGradient-3)" transform="translate(11.500000, 27.500000) scale(-1, 1) translate(-11.500000, -27.500000) " points="0 40 23 20 2 15"></polygon>
+                        <polygon id="Polygon-5-Copy-6" fill="url(#linearGradient-4)" transform="translate(10.500000, 10.000000) scale(-1, 1) translate(-10.500000, -10.000000) " points="3 0 21 20 2.22044605e-16 15"></polygon>
+                        <polygon id="Polygon-5-Copy-7" fill="#CDCDCD" transform="translate(29.000000, 7.500000) scale(-1, 1) translate(-29.000000, -7.500000) " points="40 0 18 9 37 15"></polygon>
+                    </g>
+                    <g id="C" transform="translate(106.000000, 30.000000) scale(-1, 1) translate(-106.000000, -30.000000) translate(86.000000, 10.000000)">
+                        <polygon id="Polygon-5-Copy-4" fill="url(#linearGradient-5)" transform="translate(30.500000, 24.500000) scale(-1, 1) translate(-30.500000, -24.500000) " points="38 40 21 9 40 15"></polygon>
+                        <polygon id="Polygon-5-Copy-5" fill="url(#linearGradient-6)" transform="translate(11.500000, 27.500000) scale(-1, 1) translate(-11.500000, -27.500000) " points="0 40 23 20 2 15"></polygon>
+                        <polygon id="Polygon-5-Copy-6" fill="url(#linearGradient-7)" transform="translate(10.500000, 10.000000) scale(-1, 1) translate(-10.500000, -10.000000) " points="3 0 21 20 2.22044605e-16 15"></polygon>
+                        <polygon id="Polygon-5-Copy-7" fill="#CDCDCD" transform="translate(29.000000, 7.500000) scale(-1, 1) translate(-29.000000, -7.500000) " points="40 0 18 9 37 15"></polygon>
+                    </g>
+                    <g id="D" transform="translate(18.000000, 0.000000)">
+                        <polygon id="Polygon-5-Copy-8" fill="url(#linearGradient-8)" transform="translate(67.500000, 14.500000) scale(-1, 1) translate(-67.500000, -14.500000) " points="90 10 67 19 45 10"></polygon>
+                        <polygon id="Polygon-5-Copy-9" fill="#C1C0C0" transform="translate(67.500000, 5.000000) scale(-1, 1) translate(-67.500000, -5.000000) " points="90 10 67 0 45 10"></polygon>
+                        <polygon id="Polygon-5-Copy-10" fill="#D4D4D4" transform="translate(45.000000, 5.000000) scale(-1, 1) translate(-45.000000, -5.000000) " points="45 10 22 -1.11022302e-16 68 -1.11022302e-16"></polygon>
+                        <polygon id="Polygon-5-Copy-11" fill="#C1C0C0" transform="translate(22.500000, 5.000000) scale(-1, 1) translate(-22.500000, -5.000000) " points="2.64697796e-23 10 45 10 23 -1.11022302e-16"></polygon>
+                        <polygon id="Polygon-5-Copy-12" fill="url(#linearGradient-9)" transform="translate(22.500000, 14.500000) scale(-1, 1) translate(-22.500000, -14.500000) " points="2.64697796e-23 10 45 10 23 19"></polygon>
+                        <polygon id="Polygon-5-Copy-13" fill="url(#linearGradient-10)" transform="translate(45.000000, 14.500000) scale(-1, 1) translate(-45.000000, -14.500000) " points="45 10 22 19 68 19"></polygon>
+                    </g>
+                    <g id="E" transform="translate(23.000000, 50.000000)">
+                        <polygon id="Polygon-5-Copy-14" fill="url(#linearGradient-11)" transform="translate(20.000000, 32.000000) scale(-1, 1) translate(-20.000000, -32.000000) " points="0 64 23 0 40 0"></polygon>
+                        <polygon id="Polygon-5-Copy-15" fill="url(#linearGradient-12)" transform="translate(28.500000, 32.000000) scale(-1, 1) translate(-28.500000, -32.000000) " points="17 64 40 0 29.3911562 0"></polygon>
+                        <polygon id="Polygon-5-Copy-16" fill="url(#linearGradient-13)" transform="translate(33.804422, 32.000000) scale(-1, 1) translate(-33.804422, -32.000000) " points="27.6088438 64 27.6088438 0 40 0"></polygon>
+                        <polygon id="Polygon-5-Copy-19" fill="url(#linearGradient-11)" points="40 64 63 0 80 0"></polygon>
+                        <polygon id="Polygon-5-Copy-18" fill="url(#linearGradient-12)" points="40 64 63 0 52.3911562 0"></polygon>
+                        <polygon id="Polygon-5-Copy-17" fill="url(#linearGradient-13)" points="40 64 40 0 52.3911562 0"></polygon>
+                    </g>
+                    <g id="F" transform="translate(0.000000, 30.000000)">
+                        <polygon id="Polygon-5-Copy-20" fill="url(#linearGradient-14)" transform="translate(31.500000, 42.000000) scale(-1, 1) translate(-31.500000, -42.000000) " points="0 84 63 0 40 20"></polygon>
+                        <polygon id="Polygon-5-Copy-21" fill="url(#linearGradient-15)" points="63 84 126 0 103 20"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

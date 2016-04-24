@@ -69,13 +69,13 @@
         <g id="All_logo">
             <g id="sketch" transform="translate(12.000000, -1.000000)">
                 <g id="layer-1">
-                    <polygon id="Rectangle-1" fill="#E7BC6F" points="40 19 86 19 103 50 23 50"></polygon>
-                    <polygon id="Rectangle-2" fill="#EABB67" points="18 10 40 19 23 50 0 30"></polygon>
-                    <polygon id="Rectangle-2-Copy" fill="#EABB67" transform="translate(106.000000, 30.000000) scale(-1, 1) translate(-106.000000, -30.000000) " points="104 10 126 19 109 50 86 30"></polygon>
-                    <polygon id="Polygon-1" fill="#F5E3A1" points="86 0 108 10 86 19 40 19 18 10 40 0"></polygon>
-                    <polygon id="Polygon-2" fill="#D5804E" points="0 30.1590296 23 50.0000006 63 114.000003"></polygon>
-                    <polygon id="Polygon-2-Copy" fill="#D5804E" transform="translate(94.500000, 72.079516) scale(-1, 1) translate(-94.500000, -72.079516) " points="63 30.1590296 86 50.0000006 126 114.000003"></polygon>
-                    <polygon id="Polygon-2-Copy-2" fill="#DE9958" transform="translate(63.006001, 82.000002) scale(-1, 1) translate(-63.006001, -82.000002) " points="23.012001 50.0000006 103 50.0000006 63.012001 114.000003"></polygon>
+                    <polygon id="Rectangle-1" fill="#FFE898" points="40 19 86 19 103 50 23 50"></polygon>
+                    <polygon id="Rectangle-2" fill="#F8CA4A" points="18 10 40 19 23 50 0 30"></polygon>
+                    <polygon id="Rectangle-2-Copy" fill="#F8CA4A" transform="translate(106.000000, 30.000000) scale(-1, 1) translate(-106.000000, -30.000000) " points="104 10 126 19 109 50 86 30"></polygon>
+                    <polygon id="Polygon-1" fill="#FAB32A" points="86 8.8817842e-16 108 10 86 19 40 19 18 10 40 8.8817842e-16"></polygon>
+                    <polygon id="Polygon-2" fill="#D33A04" points="0 30.1590296 23 50.0000006 63 114.000003"></polygon>
+                    <polygon id="Polygon-2-Copy" fill="#D33A04" transform="translate(94.500000, 72.079516) scale(-1, 1) translate(-94.500000, -72.079516) " points="63 30.1590296 86 50.0000006 126 114.000003"></polygon>
+                    <polygon id="Polygon-2-Copy-2" fill="#DE5B0F" transform="translate(63.006001, 82.000002) scale(-1, 1) translate(-63.006001, -82.000002) " points="23.012001 50.0000006 103 50.0000006 63.012001 114.000003"></polygon>
                 </g>
                 <g id="layer-2" style="mix-blend-mode: overlay;">
                     <g id="A" transform="translate(23.000000, 19.000000)">
@@ -100,12 +100,12 @@
                         <polygon id="Polygon-5-Copy-8" fill="url(#linearGradient-8)" transform="translate(67.500000, 14.500000) scale(-1, 1) translate(-67.500000, -14.500000) " points="90 10 67 19 45 10"></polygon>
                         <polygon id="Polygon-5-Copy-9" fill="#C1C0C0" transform="translate(67.500000, 5.000000) scale(-1, 1) translate(-67.500000, -5.000000) " points="90 10 67 0 45 10"></polygon>
                         <polygon id="Polygon-5-Copy-10" fill="#D4D4D4" transform="translate(45.000000, 5.000000) scale(-1, 1) translate(-45.000000, -5.000000) " points="45 10 22 -1.11022302e-16 68 -1.11022302e-16"></polygon>
-                        <polygon id="Polygon-5-Copy-11" fill="#C1C0C0" transform="translate(22.500000, 5.000000) scale(-1, 1) translate(-22.500000, -5.000000) " points="2.64697796e-23 10 45 10 23 -1.11022302e-16"></polygon>
-                        <polygon id="Polygon-5-Copy-12" fill="url(#linearGradient-9)" transform="translate(22.500000, 14.500000) scale(-1, 1) translate(-22.500000, -14.500000) " points="2.64697796e-23 10 45 10 23 19"></polygon>
+                        <polygon id="Polygon-5-Copy-11" fill="#C1C0C0" transform="translate(22.500000, 5.000000) scale(-1, 1) translate(-22.500000, -5.000000) " points="2.84217095e-14 10 45 10 23 -1.11022302e-16"></polygon>
+                        <polygon id="Polygon-5-Copy-12" fill="url(#linearGradient-9)" transform="translate(22.500000, 14.500000) scale(-1, 1) translate(-22.500000, -14.500000) " points="2.84217095e-14 10 45 10 23 19"></polygon>
                         <polygon id="Polygon-5-Copy-13" fill="url(#linearGradient-10)" transform="translate(45.000000, 14.500000) scale(-1, 1) translate(-45.000000, -14.500000) " points="45 10 22 19 68 19"></polygon>
                     </g>
                     <g id="E" transform="translate(23.000000, 50.000000)">
-                        <polygon id="Polygon-5-Copy-14" fill="url(#linearGradient-11)" transform="translate(20.000000, 32.000000) scale(-1, 1) translate(-20.000000, -32.000000) " points="0 64 23 0 40 0"></polygon>
+                        <polygon id="Polygon-5-Copy-14" fill="url(#linearGradient-11)" transform="translate(20.000000, 32.000000) scale(-1, 1) translate(-20.000000, -32.000000) " points="-2.84217094e-14 64 23 0 40 0"></polygon>
                         <polygon id="Polygon-5-Copy-15" fill="url(#linearGradient-12)" transform="translate(28.500000, 32.000000) scale(-1, 1) translate(-28.500000, -32.000000) " points="17 64 40 0 29.3911562 0"></polygon>
                         <polygon id="Polygon-5-Copy-16" fill="url(#linearGradient-13)" transform="translate(33.804422, 32.000000) scale(-1, 1) translate(-33.804422, -32.000000) " points="27.6088438 64 27.6088438 0 40 0"></polygon>
                         <polygon id="Polygon-5-Copy-19" fill="url(#linearGradient-11)" points="40 64 63 0 80 0"></polygon>
@@ -113,7 +113,7 @@
                         <polygon id="Polygon-5-Copy-17" fill="url(#linearGradient-13)" points="40 64 40 0 52.3911562 0"></polygon>
                     </g>
                     <g id="F" transform="translate(0.000000, 30.000000)">
-                        <polygon id="Polygon-5-Copy-20" fill="url(#linearGradient-14)" transform="translate(31.500000, 42.000000) scale(-1, 1) translate(-31.500000, -42.000000) " points="0 84 63 0 40 20"></polygon>
+                        <polygon id="Polygon-5-Copy-20" fill="url(#linearGradient-14)" transform="translate(31.500000, 42.000000) scale(-1, 1) translate(-31.500000, -42.000000) " points="-2.84217094e-14 84 63 0 40 20"></polygon>
                         <polygon id="Polygon-5-Copy-21" fill="url(#linearGradient-15)" points="63 84 126 0 103 20"></polygon>
                     </g>
                 </g>

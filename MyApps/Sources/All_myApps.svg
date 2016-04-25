@@ -3,7 +3,28 @@
     <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
     <title>All_myApps</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <rect id="path-1" x="0" y="33.6722222" width="27.3669192" height="27.55" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="27.55" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="3.0407688" y="24.4888889" width="60.815376" height="3.06111111" rx="1"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60.815376" height="3.06111111" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="36.4892256" y="33.6722222" width="27.3669192" height="3.06111111" rx="1"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="3.06111111" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="36.4892256" y="45.9166667" width="27.3669192" height="3.06111111" rx="1"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="3.06111111" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="36.4892256" y="58.1611111" width="27.3669192" height="3.06111111" rx="1"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="3.06111111" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+    </defs>
     <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="All_myApps">
             <g id="ic_menu" transform="translate(23.000000, 27.000000)" fill="#887B7B">
@@ -14,6 +35,26 @@
             <g id="ic_search" transform="translate(231.000000, 9.000000)">
                 <rect id="Rectangle-4" fill="#887B7B" transform="translate(67.698485, 66.698485) rotate(-315.000000) translate(-67.698485, -66.698485) " x="27.6984848" y="64.6984848" width="80" height="4" rx="2"></rect>
                 <circle id="Oval-1" stroke="#C0C0C0" stroke-width="2" fill="#FAFAFA" cx="37.5" cy="37.5" r="37.5"></circle>
+            </g>
+            <g id="ic_news" transform="translate(435.000000, 19.000000)">
+                <g id="frame">
+                    <rect id="Rectangle-5" fill="#979797" x="12.625" y="0" width="88.375" height="76"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#FFFFFF" x="15.15" y="2.53333333" width="83.325" height="70.9333333"></rect>
+                    <rect id="Rectangle-12" fill="#979797" x="7.601922" y="73.4666667" width="77.5396044" height="2.53333333"></rect>
+                    <rect id="Rectangle-11" fill="#979797" x="0" y="16.4666667" width="2.525" height="52.0388889"></rect>
+                    <path d="M0,68.3472222 C0,72.5737347 3.40349641,76 7.601922,76 L7.601922,76 C11.8003476,76 15.203844,72.5737347 15.203844,68.3472222" id="Oval-2" fill="#979797"></path>
+                    <path d="M2.525,68.4 C2.525,71.2076963 4.78596201,73.4837838 7.575,73.4837838 L7.575,73.4837838 C10.364038,73.4837838 12.625,71.2076963 12.625,68.4" id="Oval-2-Copy" fill="#FFFFFF"></path>
+                </g>
+                <g id="content" transform="translate(25.250000, 5.066667)">
+                    <use id="Rectangle-6" stroke="#979797" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                    <use id="Rectangle-7" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+                    <use id="Rectangle-7-Copy" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+                    <use id="Rectangle-7-Copy-2" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-7"></use>
+                    <use id="Rectangle-7-Copy-3" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-9"></use>
+                    <text id="News" font-family="Optima-Bold, Optima" font-size="21.2853816" font-weight="bold" letter-spacing="0.287" fill="#979797">
+                        <tspan x="3.0407688" y="20">News</tspan>
+                    </text>
+                </g>
             </g>
         </g>
     </g>

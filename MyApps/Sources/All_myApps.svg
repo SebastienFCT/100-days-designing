@@ -5,11 +5,15 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All_myApps" fill="#887B7B">
-            <g id="ic_menu" transform="translate(23.000000, 27.000000)">
+        <g id="All_myApps">
+            <g id="ic_menu" transform="translate(23.000000, 27.000000)" fill="#887B7B">
                 <rect id="Rectangle-1-Copy-2" x="0" y="24" width="104" height="12" rx="2"></rect>
                 <rect id="Rectangle-1-Copy-4" x="0" y="48" width="104" height="12" rx="2"></rect>
                 <rect id="Rectangle-1-Copy-3" x="0" y="0" width="104" height="12" rx="2"></rect>
+            </g>
+            <g id="ic_search" transform="translate(231.000000, 9.000000)">
+                <rect id="Rectangle-4" fill="#887B7B" transform="translate(67.698485, 66.698485) rotate(-315.000000) translate(-67.698485, -66.698485) " x="27.6984848" y="64.6984848" width="80" height="4" rx="2"></rect>
+                <circle id="Oval-1" stroke="#C0C0C0" stroke-width="2" fill="#FAFAFA" cx="37.5" cy="37.5" r="37.5"></circle>
             </g>
         </g>
     </g>

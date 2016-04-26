@@ -4,25 +4,13 @@
     <title>All_myApps</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="33.6722222" width="27.3669192" height="27.55" rx="1"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="27.55" fill="white">
+        <rect id="path-1" x="0" y="0" width="52" height="52"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52" height="52" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <rect id="path-3" x="3.0407688" y="24.4888889" width="60.815376" height="3.06111111" rx="1"></rect>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60.815376" height="3.06111111" fill="white">
+        <rect id="path-3" x="5" y="0" width="52" height="52"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52" height="52" fill="white">
             <use xlink:href="#path-3"></use>
-        </mask>
-        <rect id="path-5" x="36.4892256" y="33.6722222" width="27.3669192" height="3.06111111" rx="1"></rect>
-        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="3.06111111" fill="white">
-            <use xlink:href="#path-5"></use>
-        </mask>
-        <rect id="path-7" x="36.4892256" y="45.9166667" width="27.3669192" height="3.06111111" rx="1"></rect>
-        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="3.06111111" fill="white">
-            <use xlink:href="#path-7"></use>
-        </mask>
-        <rect id="path-9" x="36.4892256" y="58.1611111" width="27.3669192" height="3.06111111" rx="1"></rect>
-        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="27.3669192" height="3.06111111" fill="white">
-            <use xlink:href="#path-9"></use>
         </mask>
     </defs>
     <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -36,25 +24,25 @@
                 <rect id="Rectangle-4" fill="#887B7B" transform="translate(67.698485, 66.698485) rotate(-315.000000) translate(-67.698485, -66.698485) " x="27.6984848" y="64.6984848" width="80" height="4" rx="2"></rect>
                 <circle id="Oval-1" stroke="#C0C0C0" stroke-width="2" fill="#FAFAFA" cx="37.5" cy="37.5" r="37.5"></circle>
             </g>
-            <g id="ic_news" transform="translate(435.000000, 19.000000)">
-                <g id="frame">
-                    <rect id="Rectangle-5" fill="#979797" x="12.625" y="0" width="88.375" height="76"></rect>
-                    <rect id="Rectangle-5-Copy" fill="#FFFFFF" x="15.15" y="2.53333333" width="83.325" height="70.9333333"></rect>
-                    <rect id="Rectangle-12" fill="#979797" x="7.601922" y="73.4666667" width="77.5396044" height="2.53333333"></rect>
-                    <rect id="Rectangle-11" fill="#979797" x="0" y="16.4666667" width="2.525" height="52.0388889"></rect>
-                    <path d="M0,68.3472222 C0,72.5737347 3.40349641,76 7.601922,76 L7.601922,76 C11.8003476,76 15.203844,72.5737347 15.203844,68.3472222" id="Oval-2" fill="#979797"></path>
-                    <path d="M2.525,68.4 C2.525,71.2076963 4.78596201,73.4837838 7.575,73.4837838 L7.575,73.4837838 C10.364038,73.4837838 12.625,71.2076963 12.625,68.4" id="Oval-2-Copy" fill="#FFFFFF"></path>
+            <g id="ic_news" transform="translate(448.000000, 29.000000)" fill="#887B7B">
+                <path d="M10.7913208,55.0480957 L5.13366699,55.0270386 C5.13366699,55.0270386 3.15631104,54.6793823 2.22418213,53.5044556 C1.29205322,52.3295288 0.554138184,51.0880737 0.554138184,50.3499756 C0.554138184,49.6118774 0.570251465,8.28942871 0.570251465,8.28942871 C0.570251465,8.28942871 0.636901855,7.29077148 1.89471436,7.29077148 C3.15252686,7.29077148 3.14233398,8.33032227 3.14233398,8.33032227 L3.07509942,49.8038165 C3.07509942,49.8038165 3.48681641,52.4996338 6.0536499,52.4996338 C8.6204834,52.4996338 9.0246582,49.7999878 9.0246582,49.7999878 L9.0921966,2.1502575 C9.0921966,2.1502575 9.01861572,1.54699707 9.45599365,1.17358398 C9.89337158,0.800170898 10.7355957,0.893371582 10.7355957,0.893371582 L71.8704042,1.01507893 C71.8704042,1.01507893 72.9655762,0.828125002 73.2580566,1.25195312 C73.5505371,1.67578125 73.6083374,1.72888184 73.6083374,2.4418335 C73.6083374,3.15478515 73.5657907,50.0145228 73.5657907,50.0145228 C73.5657907,50.0145228 73.3598022,51.9180899 72.0951538,53.2581787 C70.8305054,54.5982676 70.1323853,55.05548 68.6152954,55.055481 C67.0982056,55.0554819 10.7913208,55.0480957 10.7913208,55.0480957 Z M11.7221046,49.9204076 L11.6486003,3.52346166 L70.9493478,3.56286314 L71.0163801,50.0882839 C71.0163801,50.0882839 70.280949,52.4798698 68.0351768,52.4798704 C65.7894046,52.4798711 10.963998,52.4561497 10.963998,52.4561497 C10.963998,52.4561497 11.4149472,51.5956682 11.5317738,50.8419765 C11.6486003,50.0882848 11.7221046,49.9204076 11.7221046,49.9204076 Z" id="frame"></path>
+                <g id="content" transform="translate(19.000000, 19.000000)">
+                    <path d="M0,9.99079514 C0,8.89130934 0.890925393,8 1.99742191,8 L17.0025781,8 C18.1057238,8 19,8.89821238 19,9.99079514 L19,26.0092049 C19,27.1086907 18.1090746,28 17.0025781,28 L1.99742191,28 C0.894276248,28 0,27.1017876 0,26.0092049 L0,9.99079514 Z M2,10 L17,10 L17,26 L2,26 L2,10 Z" id="Combined-Shape"></path>
+                    <rect id="Rectangle-7" x="26" y="9" width="18" height="2" rx="1"></rect>
+                    <rect id="Rectangle-7-Copy-3" x="0" y="0" width="44" height="2" rx="1"></rect>
+                    <rect id="Rectangle-7-Copy" x="26" y="18" width="18" height="2" rx="1"></rect>
+                    <rect id="Rectangle-7-Copy-2" x="26" y="26" width="18" height="2" rx="1"></rect>
                 </g>
-                <g id="content" transform="translate(25.250000, 5.066667)">
-                    <use id="Rectangle-6" stroke="#979797" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
-                    <use id="Rectangle-7" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
-                    <use id="Rectangle-7-Copy" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
-                    <use id="Rectangle-7-Copy-2" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-7"></use>
-                    <use id="Rectangle-7-Copy-3" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-9"></use>
-                    <text id="News" font-family="Optima-Bold, Optima" font-size="21.2853816" font-weight="bold" letter-spacing="0.287" fill="#979797">
-                        <tspan x="3.0407688" y="20">News</tspan>
-                    </text>
-                </g>
+                <text id="News" font-family="Optima-Bold, Optima" font-size="11" font-weight="bold" letter-spacing="0.450999975">
+                    <tspan x="27" y="14">News</tspan>
+                </text>
+            </g>
+            <g id="ic_check_off" transform="translate(664.000000, 31.000000)" stroke="#979797" stroke-width="6" fill="#EFEFEF">
+                <use id="Rectangle-11" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="ic_check_on" transform="translate(856.000000, 31.000000)">
+                <use id="Rectangle-11-Copy" stroke="#979797" mask="url(#mask-4)" stroke-width="6" fill="#EFEFEF" xlink:href="#path-3"></use>
+                <path d="M28.2738636,40.1525433 L2.12132034,14 L5.24025268e-14,16.1213203 L26.1525433,42.2738636 L26,42.4264069 L28.1213203,44.5477272 L28.2738636,44.395184 L28.2842712,44.4055916 L30.4055916,42.2842712 L30.395184,42.2738636 L70.5477272,2.12132034 L68.4264069,-7.10542736e-15 L28.2738636,40.1525433 Z" id="Combined-Shape" fill="#25A162"></path>
             </g>
         </g>
     </g>

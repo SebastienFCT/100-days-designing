@@ -713,6 +713,30 @@
                 <rect id="Rectangle-237-Copy" fill="#646361" x="9" y="69" width="42" height="2"></rect>
                 <rect id="Rectangle-237-Copy-2" fill="#646361" x="9" y="73" width="46" height="2"></rect>
             </g>
+            <g id="icon-background" transform="translate(1029.000000, 1236.000000)" fill="#D0E4FA">
+                <circle id="Oval-1-Copy-2" cx="75" cy="75" r="75"></circle>
+            </g>
+            <g id="Group-2" transform="translate(1054.000000, 1261.000000)">
+                <circle id="Oval-178" fill="#656461" cx="50" cy="50" r="50"></circle>
+                <circle id="Oval-179" fill="#D8D8D8" cx="50" cy="50" r="42"></circle>
+                <g id="Group" transform="translate(50.000000, 50.000000) rotate(31.000000) translate(-50.000000, -50.000000) translate(45.000000, 12.000000)">
+                    <polygon id="Polygon-18" fill="#D44A4A" points="5 -1.42108547e-14 10 38 5.68434189e-14 38"></polygon>
+                    <polygon id="Polygon-18-Copy" fill="#64615C" transform="translate(5.000000, 57.000000) rotate(-180.000000) translate(-5.000000, -57.000000) " points="5 38 10 76 -8.70414851e-14 76"></polygon>
+                </g>
+                <circle id="Oval-178-Copy" fill="#9A9A9A" cx="50" cy="50" r="5"></circle>
+                <text id="N" font-family="Optima-Bold, Optima" font-size="13" font-weight="bold" letter-spacing="0.532999992" fill="#5B5B5B">
+                    <tspan x="45" y="20">N</tspan>
+                </text>
+                <text id="S" font-family="Optima-Bold, Optima" font-size="13" font-weight="bold" letter-spacing="0.532999992" fill="#5B5B5B">
+                    <tspan x="46" y="89">S</tspan>
+                </text>
+                <text id="E" font-family="Optima-Bold, Optima" font-size="13" font-weight="bold" letter-spacing="0.532999992" fill="#5B5B5B">
+                    <tspan x="84" y="53">E</tspan>
+                </text>
+                <text id="W" font-family="Optima-Bold, Optima" font-size="13" font-weight="bold" letter-spacing="0.532999992" fill="#5B5B5B">
+                    <tspan x="10" y="53">W</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>

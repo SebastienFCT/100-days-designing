@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1989px" height="150px" viewBox="0 0 1989 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>All_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="99" width="180" height="9"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="9" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <rect id="path-4" x="75" y="99" width="30" height="6"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="6" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-6" x="20" y="0" width="140" height="100"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="140" height="100" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="30" y="10" width="120" height="80" rx="3"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="80" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <rect id="path-10" x="30" y="10" width="120" height="12" rx="3"></rect>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="12" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+        <rect id="path-12" x="90" y="28" width="52" height="35" rx="2"></rect>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52" height="35" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="80" height="140" rx="10"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="140" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="0" y="120" width="80" height="20" rx="10"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="20" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="0" y="0" width="80" height="20" rx="10"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="20" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-22" x="0" y="92" width="160" height="8" rx="4"></rect>
+        <mask id="mask-23" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="160" height="8" fill="white">
+            <use xlink:href="#path-22"></use>
+        </mask>
+        <rect id="path-24" x="0" y="0" width="160" height="8" rx="4"></rect>
+        <mask id="mask-25" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="160" height="8" fill="white">
+            <use xlink:href="#path-24"></use>
+        </mask>
+        <rect id="path-26" x="0" y="0" width="160" height="100" rx="4"></rect>
+        <mask id="mask-27" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="160" height="100" fill="white">
+            <use xlink:href="#path-26"></use>
+        </mask>
+        <rect id="path-28" x="70" y="99" width="20" height="8"></rect>
+        <mask id="mask-29" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="8" fill="white">
+            <use xlink:href="#path-28"></use>
+        </mask>
+        <rect id="path-30" x="45" y="106" width="70" height="1"></rect>
+        <mask id="mask-31" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="1" fill="white">
+            <use xlink:href="#path-30"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M74.02312,7 L5.00329329,7 C2.24153039,7 0,9.23859054 0,12.0000319 L0,51.9999681 C0,54.754469 2.24005071,57 5.00329329,57 L74.02312,57 C79.4979506,61.3805094 86.4430679,64 94,64 C101.556932,64 108.502049,61.3805094 113.97688,57 L134.996707,57 C137.75847,57 140,54.7614095 140,51.9999681 L140,12.0000319 C140,9.24553095 137.759949,7 134.996707,7 L113.97688,7 C108.502049,2.61949063 101.556932,0 94,0 C86.4430679,0 79.4979506,2.61949063 74.02312,7 Z" id="path-33"></path>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="140" height="64" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <rect id="path-35" x="10" y="17" width="40" height="4"></rect>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="4" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <rect id="path-37" x="10" y="23" width="40" height="4"></rect>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="4" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <rect id="path-39" x="10" y="29" width="40" height="4"></rect>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="4" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <rect id="path-41" x="10" y="56" width="10" height="4"></rect>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="4" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <rect id="path-43" x="120" y="56" width="10" height="4"></rect>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="4" fill="white">
+            <use xlink:href="#path-43"></use>
+        </mask>
+        <rect id="path-45" x="124" y="7" width="10" height="5"></rect>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="5" fill="white">
+            <use xlink:href="#path-45"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-47">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-48" x="2.54166667" y="29.6527778" width="54.2222222" height="62.6944444" rx="6"></rect>
+        <mask id="mask-49" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="54.2222222" height="62.6944444" fill="white">
+            <use xlink:href="#path-48"></use>
+        </mask>
+        <rect id="path-50" x="0" y="27.1111111" width="59.3055556" height="67.7777778" rx="6"></rect>
+        <mask id="mask-51" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="59.3055556" height="67.7777778" fill="white">
+            <use xlink:href="#path-50"></use>
+        </mask>
+        <path d="M11.0138889,13.9791667 C11.0138889,9.31944444 10.1666667,0 10.1666667,0 L49.1388889,0 C49.1388889,0 48.2916667,9.31944444 48.2916667,13.9791667 C48.2916667,18.6388889 50.8333333,27.9583333 50.8333333,27.9583333 L8.47222222,27.9583333 C8.47222222,27.9583333 11.0138889,18.6388889 11.0138889,13.9791667 Z" id="path-52"></path>
+        <mask id="mask-53" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42.3611111" height="27.9583333" fill="white">
+            <use xlink:href="#path-52"></use>
+        </mask>
+        <path d="M11.0138889,108.020833 C11.0138889,103.361111 10.1666667,94.0416667 10.1666667,94.0416667 L49.1388889,94.0416667 C49.1388889,94.0416667 48.2916667,103.361111 48.2916667,108.020833 C48.2916667,112.680556 50.8333333,122 50.8333333,122 L8.47222222,122 C8.47222222,122 11.0138889,112.680556 11.0138889,108.020833 Z" id="path-54"></path>
+        <mask id="mask-55" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42.3611111" height="27.9583333" fill="white">
+            <use xlink:href="#path-54"></use>
+        </mask>
+        <rect id="path-56" x="58.4583333" y="38.9722222" width="2.54166667" height="8.47222222"></rect>
+        <mask id="mask-57" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.54166667" height="8.47222222" fill="white">
+            <use xlink:href="#path-56"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-59" x="0" y="0" width="64" height="92"></rect>
+        <mask id="mask-60" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="92" fill="white">
+            <use xlink:href="#path-59"></use>
+        </mask>
+        <path d="M64,33.8187373 L64,9.99538968 C64,4.46986042 59.5228475,0 54,0 L10,0 C4.47491856,0 0,4.47508839 0,9.99538968 L0,34.2082742 C6.3004741,31.365856 18.4736053,29.44 32.4571429,29.44 C45.7920251,29.44 57.4805644,31.1913303 64,33.8187373 Z" id="path-61"></path>
+        <mask id="mask-62" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="34.2082742" fill="white">
+            <use xlink:href="#path-61"></use>
+        </mask>
+        <rect id="path-63" x="5" y="0" width="12" height="20"></rect>
+        <mask id="mask-64" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="20" fill="white">
+            <use xlink:href="#path-63"></use>
+        </mask>
+        <rect id="path-65" x="0" y="4" width="6" height="12"></rect>
+        <mask id="mask-66" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="12" fill="white">
+            <use xlink:href="#path-65"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-67">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M96,73 L126.002664,73 C128.211752,73 130,71.2067484 130,68.9946605 L130,24.0053395 C130,21.7937742 128.210332,20 126.002664,20 L3.99733597,20 C1.78824821,20 0,21.7932516 0,24.0053395 L0,68.9946605 C0,71.2062258 1.78966827,73 3.99733597,73 L34,73 L34,51.1375 L96,51.1375 L96,73 Z" id="path-68"></path>
+        <mask id="mask-69" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="53" fill="white">
+            <use xlink:href="#path-68"></use>
+        </mask>
+        <rect id="path-70" x="33" y="50" width="64" height="38"></rect>
+        <mask id="mask-71" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="38" fill="white">
+            <use xlink:href="#path-70"></use>
+        </mask>
+        <rect id="path-72" x="33" y="0" width="64" height="21"></rect>
+        <mask id="mask-73" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="21" fill="white">
+            <use xlink:href="#path-72"></use>
+        </mask>
+        <rect id="path-74" x="45" y="24" width="40" height="12"></rect>
+        <mask id="mask-75" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="12" fill="white">
+            <use xlink:href="#path-74"></use>
+        </mask>
+        <rect id="path-76" x="39" y="66" width="17" height="11"></rect>
+        <mask id="mask-77" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17" height="11" fill="white">
+            <use xlink:href="#path-76"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-78">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0.602106039,7.62490004 C0.21816315,8.3262932 7.11146408e-15,9.13242348 7.11271981e-15,9.99202633 L7.12589048e-15,19.0079737 C7.1299174e-15,21.7645872 2.24052752,24 5.00435829,24 L74.9956417,24 C77.7557794,24 80,21.7658562 80,19.0099002 L80,10.9900998 C80,9.99049613 79.7032726,9.05386031 79.1925812,8.2650809 C78.5301403,9.88733922 76.9475261,11 74.9956417,11 L5.00435829,11 C2.80374666,11 1.07664645,9.58243466 0.602106039,7.62490004 Z" id="path-79"></path>
+        <mask id="mask-80" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="16.3751" fill="white">
+            <use xlink:href="#path-79"></use>
+        </mask>
+        <path d="M1.01344771,5.77987395 C2.01997074,2.67043131 5.4912643,0.14973 8.76195991,0.14973 L69.702242,0.14973 C72.9751041,0.14973 76.7218048,2.56209254 78.0783499,5.55469715 L78.9385167,7.45226722 C80.0770425,9.96391068 78.7641708,12 75.9939698,12 L4.00603017,12 C1.24127605,12 -0.30978434,9.86772292 0.538112561,7.24832258 L1.01344771,5.77987395 Z" id="path-81"></path>
+        <mask id="mask-82" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79.0421819" height="11.85027" fill="white">
+            <use xlink:href="#path-81"></use>
+        </mask>
+        <rect id="path-83" x="0" y="0" width="20" height="66" rx="25"></rect>
+        <mask id="mask-84" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="66" fill="white">
+            <use xlink:href="#path-83"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-85">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-86">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,0 L45,0 L67.5,0 L90,24.25 L90,48.5 L90,97 L0,97 L0,0 Z" id="path-87"></path>
+        <mask id="mask-88" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="90" height="97" fill="white">
+            <use xlink:href="#path-87"></use>
+        </mask>
+        <rect id="path-89" x="7.5" y="44.3643411" width="75" height="52.6356589"></rect>
+        <mask id="mask-90" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="75" height="52.6356589" fill="white">
+            <use xlink:href="#path-89"></use>
+        </mask>
+        <rect id="path-91" x="26.25" y="0" width="37.5" height="18.0465116"></rect>
+        <mask id="mask-92" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37.5" height="18.0465116" fill="white">
+            <use xlink:href="#path-91"></use>
+        </mask>
+        <rect id="path-93" x="55.75" y="2.50387597" width="5.5" height="13.04"></rect>
+        <mask id="mask-94" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.5" height="13.04" fill="white">
+            <use xlink:href="#path-93"></use>
+        </mask>
+    </defs>
+    <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All_outlined" stroke="#979797">
+            <g id="computer" filter="url(#filter-1)" transform="translate(5.000000, 21.000000)">
+                <use id="Rectangle-1" mask="url(#mask-3)" stroke-width="2" xlink:href="#path-2"></use>
+                <use id="Rectangle-1-Copy" mask="url(#mask-5)" stroke-width="2" xlink:href="#path-4"></use>
+                <use id="Rectangle-2" mask="url(#mask-7)" stroke-width="2" xlink:href="#path-6"></use>
+                <use id="Rectangle-2-Copy" mask="url(#mask-9)" stroke-width="2" xlink:href="#path-8"></use>
+                <use id="Rectangle-2-Copy-2" mask="url(#mask-11)" stroke-width="2" xlink:href="#path-10"></use>
+                <use id="Rectangle-5" mask="url(#mask-13)" stroke-width="2" xlink:href="#path-12"></use>
+                <path d="M36.5,33.5 L84.5,33.5" id="Line" stroke-linecap="square"></path>
+                <path d="M36.5,27.5 L84.5,27.5" id="Line-Copy-7" stroke-linecap="square"></path>
+                <path d="M36.5,40.5 L84.5,40.5" id="Line-Copy" stroke-linecap="square"></path>
+                <path d="M36.5,47.5 L84.5,47.5" id="Line-Copy-2" stroke-linecap="square"></path>
+                <path d="M36.5,54.5 L84.5,54.5" id="Line-Copy-3" stroke-linecap="square"></path>
+                <path d="M36.5,61.5 L84.5,61.5" id="Line-Copy-4" stroke-linecap="square"></path>
+                <path d="M36.5,68.5 L140.5,68.5" id="Line-Copy-5" stroke-linecap="square"></path>
+                <path d="M36.5,75.5 L140.5,75.5" id="Line-Copy-6" stroke-linecap="square"></path>
+                <path d="M36.5,82.5 L140.5,82.5" id="Line-Copy-8" stroke-linecap="square"></path>
+                <circle id="Oval-1" cx="39" cy="16" r="3"></circle>
+                <circle id="Oval-1-Copy" cx="49" cy="16" r="3"></circle>
+                <circle id="Oval-1-Copy-2" cx="59" cy="16" r="3"></circle>
+            </g>
+            <g id="phone" filter="url(#filter-14)" transform="translate(260.000000, 5.000000)">
+                <use id="Rectangle-7" mask="url(#mask-16)" stroke-width="2" xlink:href="#path-15"></use>
+                <use id="Rectangle-7-Copy-2" mask="url(#mask-18)" stroke-width="2" xlink:href="#path-17"></use>
+                <circle id="Oval-4" cx="40" cy="130" r="6"></circle>
+                <use id="Rectangle-7-Copy" mask="url(#mask-20)" stroke-width="2" xlink:href="#path-19"></use>
+            </g>
+            <g id="tv" filter="url(#filter-21)" transform="translate(425.000000, 22.000000)">
+                <use id="Rectangle-10" mask="url(#mask-23)" stroke-width="2" xlink:href="#path-22"></use>
+                <circle id="Oval-5" cx="80" cy="96" r="2"></circle>
+                <use id="Rectangle-10-Copy" mask="url(#mask-25)" stroke-width="2" xlink:href="#path-24"></use>
+                <use id="Rectangle-10-Copy-2" mask="url(#mask-27)" stroke-width="2" xlink:href="#path-26"></use>
+                <use id="Rectangle-13" mask="url(#mask-29)" stroke-width="2" xlink:href="#path-28"></use>
+                <use id="Rectangle-14" mask="url(#mask-31)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-30"></use>
+            </g>
+            <g id="projector" filter="url(#filter-32)" transform="translate(640.000000, 43.000000)">
+                <use id="Combined-Shape" mask="url(#mask-34)" stroke-width="2" xlink:href="#path-33"></use>
+                <use id="Rectangle-18" mask="url(#mask-36)" stroke-width="2" xlink:href="#path-35"></use>
+                <use id="Rectangle-18-Copy" mask="url(#mask-38)" stroke-width="2" xlink:href="#path-37"></use>
+                <use id="Rectangle-18-Copy-2" mask="url(#mask-40)" stroke-width="2" xlink:href="#path-39"></use>
+                <circle id="Oval-6-Copy" cx="94" cy="32" r="24"></circle>
+                <circle id="Oval-6-Copy-2" cx="94" cy="32" r="22"></circle>
+                <use id="Rectangle-16" mask="url(#mask-42)" stroke-width="2" xlink:href="#path-41"></use>
+                <use id="Rectangle-16-Copy" mask="url(#mask-44)" stroke-width="2" xlink:href="#path-43"></use>
+                <use id="Rectangle-21" mask="url(#mask-46)" stroke-width="2" xlink:href="#path-45"></use>
+            </g>
+            <g id="watch" filter="url(#filter-47)" transform="translate(885.000000, 14.000000)">
+                <use id="Rectangle-22" mask="url(#mask-49)" stroke-width="2" xlink:href="#path-48"></use>
+                <use id="Rectangle-22-Copy" mask="url(#mask-51)" stroke-width="2" xlink:href="#path-50"></use>
+                <use id="Rectangle-25" mask="url(#mask-53)" stroke-width="2" xlink:href="#path-52"></use>
+                <use id="Rectangle-25-Copy" mask="url(#mask-55)" stroke-width="2" transform="translate(29.652778, 108.020833) scale(1, -1) translate(-29.652778, -108.020833) " xlink:href="#path-54"></use>
+                <use id="Rectangle-26" mask="url(#mask-57)" stroke-width="2" xlink:href="#path-56"></use>
+                <path d="M21.6041667,57.6458333 L29.6527778,64" id="Line" stroke-linecap="square"></path>
+                <path d="M44.4791667,50.8680556 L29.6527778,64" id="Line-Copy" stroke-linecap="square"></path>
+            </g>
+            <g id="mouse" filter="url(#filter-58)" transform="translate(1081.000000, 5.000000)">
+                <g transform="translate(14.000000, 48.000000)">
+                    <use id="Rectangle-27" mask="url(#mask-60)" stroke-width="2" xlink:href="#path-59"></use>
+                    <use id="Combined-Shape" mask="url(#mask-62)" stroke-width="2" xlink:href="#path-61"></use>
+                    <path d="M32,0.46 L32,9.66" id="Line" stroke-linecap="square"></path>
+                    <path d="M32,19.32 L32,28.52" id="Line-Copy" stroke-linecap="square"></path>
+                    <ellipse id="Oval-10-Copy" cx="32" cy="14.72" rx="4.57142857" ry="4.6"></ellipse>
+                </g>
+                <g id="usb" transform="translate(0.000000, 5.000000)" stroke-width="2">
+                    <use id="Rectangle-29" mask="url(#mask-64)" xlink:href="#path-63"></use>
+                    <use id="Rectangle-30" mask="url(#mask-66)" xlink:href="#path-65"></use>
+                </g>
+                <g id="wifii" transform="translate(36.000000, 15.000000) rotate(90.000000) translate(-36.000000, -15.000000) translate(21.000000, 5.000000)">
+                    <ellipse id="Oval-93" cx="14.979267" cy="16.7610749" rx="2.99585339" ry="3.03295641"></ellipse>
+                    <path d="M21.1286502,13.892068 C20.9062497,13.1794321 20.5692631,12.5183293 20.1395773,11.9309175 C18.9348357,10.2839482 17.0013721,9.21627424 14.8215905,9.21627424 C12.6418088,9.21627424 10.7083452,10.2839482 9.50360366,11.9309175 C9.07391781,12.5183293 8.73693122,13.1794321 8.51453069,13.892068" id="Oval-93-Copy" stroke-linecap="round"></path>
+                    <path d="M25.8589451,12.6100347 C25.4697441,11.3629219 24.8800176,10.205992 24.1280674,9.17802133 C22.0197696,6.29582505 18.6362083,4.42739569 14.8215905,4.42739569 C11.0069726,4.42739569 7.62341128,6.29582505 5.51511357,9.17802133 C4.76316333,10.205992 4.17343679,11.3629219 3.78423586,12.6100347" id="Oval-93-Copy-2" stroke-linecap="round"></path>
+                    <path d="M29.9585339,11.1050101 C29.4303327,9.41249983 28.6299895,7.84238069 27.6094856,6.44727766 C24.7482244,2.53572556 20.1562483,1.13686838e-13 14.979267,1.13686838e-13 C9.80228559,1.13686838e-13 5.21030949,2.53572556 2.34904831,6.44727766 C1.32854442,7.84238069 0.528201255,9.41249983 0,11.1050101" id="Oval-93-Copy-3" stroke-linecap="round"></path>
+                </g>
+            </g>
+            <g id="printer" filter="url(#filter-67)" transform="translate(1260.000000, 31.000000)">
+                <use id="Combined-Shape" mask="url(#mask-69)" stroke-width="2" xlink:href="#path-68"></use>
+                <use id="Rectangle-32-Copy-2" mask="url(#mask-71)" stroke-width="2" xlink:href="#path-70"></use>
+                <use id="Rectangle-32-Copy" mask="url(#mask-73)" stroke-width="2" xlink:href="#path-72"></use>
+                <use id="Rectangle-35" mask="url(#mask-75)" stroke-width="2" xlink:href="#path-74"></use>
+                <circle id="Oval-12" cx="35" cy="27" r="2"></circle>
+                <circle id="Oval-12-Copy" cx="41" cy="27" r="2"></circle>
+                <circle id="Oval-12-Copy-2" cx="35" cy="33" r="2"></circle>
+                <circle id="Oval-12-Copy-3" cx="41" cy="33" r="2"></circle>
+                <path d="M91.5,81.5 L39.0309615,81.5" id="Line" stroke-linecap="square"></path>
+                <path d="M91.5,76.5 L59.5,76.5" id="Line-Copy-3" stroke-linecap="square"></path>
+                <path d="M91.5,71.5 L59.5,71.5" id="Line-Copy-4" stroke-linecap="square"></path>
+                <path d="M91.5,66.5 L59.5,66.5" id="Line-Copy-5" stroke-linecap="square"></path>
+                <use id="Rectangle-36" mask="url(#mask-77)" stroke-width="2" xlink:href="#path-76"></use>
+            </g>
+            <g id="smart-box" filter="url(#filter-78)" transform="translate(1473.000000, 42.000000)">
+                <g id="box" transform="translate(0.000000, 42.000000)" stroke-width="2">
+                    <use id="Combined-Shape" mask="url(#mask-80)" xlink:href="#path-79"></use>
+                    <use id="Rectangle-37-Copy" mask="url(#mask-82)" xlink:href="#path-81"></use>
+                </g>
+                <g id="remote" transform="translate(94.000000, 0.000000)">
+                    <use id="Rectangle-40" mask="url(#mask-84)" stroke-width="2" xlink:href="#path-83"></use>
+                    <circle id="Oval-16" cx="10" cy="11" r="7"></circle>
+                    <circle id="Oval-16-Copy" cx="10" cy="11" r="5"></circle>
+                    <circle id="Oval-16-Copy-2" cx="6" cy="23" r="2"></circle>
+                    <circle id="Oval-16-Copy-3" cx="14" cy="23" r="2"></circle>
+                </g>
+            </g>
+            <g id="database" filter="url(#filter-85)" transform="translate(1693.000000, 40.000000)">
+                <path d="M0,57.1052632 C0,64.0233563 18.1924295,69.6315789 40.6339286,69.6315789 L40.6339286,69.6315789 C63.0754276,69.6315789 81.2678571,64.0233563 81.2678571,57.1052632" id="Oval-20"></path>
+                <path d="M81.2678571,12.5263158 L81.2678571,57.1052632 M0,57.1052632 L0,12.5263158 L0,12.5263158" id="Rectangle-41-Copy-3"></path>
+                <path d="M0,42 C0,48.9180932 18.1924295,54.5263158 40.6339286,54.5263158 L40.6339286,54.5263158 C63.0754276,54.5263158 81.2678571,48.9180932 81.2678571,42" id="Oval-20-Copy"></path>
+                <path d="M0,27.2631579 C0,34.1812511 18.1924295,39.7894737 40.6339286,39.7894737 L40.6339286,39.7894737 C63.0754276,39.7894737 81.2678571,34.1812511 81.2678571,27.2631579" id="Oval-20-Copy-3"></path>
+                <ellipse id="Oval-20-Copy-2" cx="40.6339286" cy="12.5263158" rx="40.6339286" ry="12.5263158"></ellipse>
+            </g>
+            <g id="floppy" filter="url(#filter-86)" transform="translate(1894.000000, 27.000000)">
+                <use id="Rectangle-41" mask="url(#mask-88)" stroke-width="2" xlink:href="#path-87"></use>
+                <use id="Rectangle-43" mask="url(#mask-90)" stroke-width="2" xlink:href="#path-89"></use>
+                <path d="M13.125,51.5077519 L71.625,51.5077519" id="Line" stroke-linecap="square"></path>
+                <path d="M13.125,59.0271318 L71.625,59.0271318" id="Line-Copy" stroke-linecap="square"></path>
+                <path d="M13.125,66.5465116 L71.625,66.5465116" id="Line-Copy-2" stroke-linecap="square"></path>
+                <use id="Rectangle-42" mask="url(#mask-92)" stroke-width="2" xlink:href="#path-91"></use>
+                <use id="Rectangle-44" mask="url(#mask-94)" stroke-width="2" xlink:href="#path-93"></use>
+            </g>
+        </g>
+    </g>
+</svg>

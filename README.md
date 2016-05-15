@@ -8,16 +8,22 @@ My work is totally free to use/reuse/modify/etc... See the [License section](#li
 
 ## List
 
-- Mixed icons:
-
-<p align="center">
-  <img src="Mixed/Sources/All_mixed@1x.png">
-</p>
-
 - Logos icons:
 
 <p align="center">
   <img src="Logos/Sources/All_logo@1x.png">
+</p>
+
+- Outlined icons:
+
+<p align="center">
+  <img src="Outlined/Sources/All_outlined@1x.png">
+</p>
+
+- Mixed icons:
+
+<p align="center">
+  <img src="Mixed/Sources/All_mixed@1x.png">
 </p>
 
 ## Contribution
